@@ -1,0 +1,48 @@
+.booktitle {
+    font-size: x-large;
+    margin-top: 4%;
+    margin-left: 3%
+}
+
+.mainbook {
+    margin-top: 3%;
+    background: white;
+    width: 40%;
+    height: 350px;
+    margin-left: 29%;
+    border-radius: 10px;
+}
+
+.booking {
+    margin-top: 2%;
+    margin-left: 3%
+}
+
+.lastName {
+    margin-top: 4%;
+}
+
+.artist {
+    margin-top: 4%;
+}
+
+.tour {
+    margin-top: 4%;
+}
+
+.place {
+    margin-top: 4%;
+}
+
+.price {
+    margin-top: 4%;
+    margin-bottom: 3%;
+}
+
+.type {
+    margin-top: 4%;
+}
+
+.date {
+    margin-top: 4%;
+}

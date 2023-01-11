@@ -1,0 +1,83 @@
+
+.container-one
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+    flex-direction: column;
+
+}
+        
+.profile-container
+{
+    border: 3px solid #F7BE15;
+    border-radius: 8px;
+    position:relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height:500px;
+    margin-top: 3%;
+}
+
+.urProfile 
+{
+    font-size: x-large;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+
+.profile {
+    font-size: large;
+    margin-left: 22%;
+    margin-top: 3%;
+}
+
+.lastName {
+    margin-top: 2%;
+}
+
+.email {
+    margin-top: 2%;
+}
+
+.phone{
+    margin-top: 2%;
+}
+
+.avatar {
+    border-radius: 50%;
+    width:10%;
+    margin-left: 6%;
+    margin-top: 2%;
+}
+
+.updatea {
+    margin-top: -10%;
+    margin-left: 20%;
+    
+
+}
+.updatei {
+    margin-top: -34%;
+    width:20%;
+    margin-left: 75%;
+    background: #F7BE15;
+    border: none;
+}
+
+.updatep {
+    margin-top: 2%;
+    width:20%;
+    margin-left: 75%;
+    background: #F7BE15;
+    border: none;
+}
+
+.delete {
+    margin-top: 2%;
+    width:20%;
+    margin-left: 75%;
+    background: red;
+    border: none;
+}

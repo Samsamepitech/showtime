@@ -1,0 +1,14 @@
+.login{
+    background: #fff;
+	padding: 25px;
+	margin-bottom: 25px;
+	border-radius: 5px;
+	overflow: hidden;
+	box-shadow: 0 2px 30px rgba(0, 0, 0, 0.1);
+	transition: all 0.2s;
+    width:50%;
+    margin-right: auto;
+    margin-left: auto;
+    top:200px;
+    text-align: center;
+}
