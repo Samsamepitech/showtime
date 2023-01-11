@@ -68,7 +68,10 @@ User page with QR code
 
 ![image](https://user-images.githubusercontent.com/98088041/211889199-668ad100-5aab-4e52-8cae-7894f0812260.png)
 
-Administration pages with CRUD
+Administration pages with CRUD and KPI management
+
+![image](https://user-images.githubusercontent.com/98088041/211892235-7e87698a-e715-4bca-a025-0570c959a6b3.png)
+
 
 ![image](https://user-images.githubusercontent.com/98088041/211889302-a4a0c670-ea09-4f3e-bd1f-7ec10bc8fa3a.png)
 
