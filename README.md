@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+Showtime 
+
+React and Typescript app to book concerts 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
